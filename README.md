@@ -1,4 +1,6 @@
 TESLA STOCK MARKET PREDICTION
+
+
 The goal of this project is to 
 forecast Tesla’s stock price for the upcoming three months using historical stock data and machine learning 
 algorithms. This predictive model aids investors by providing insights into potential stock trends and 
